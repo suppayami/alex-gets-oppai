@@ -1,0 +1,5 @@
+*.dll
+*.exe
+*.ico
+*.sublime-project
+*.sublime-workspace
